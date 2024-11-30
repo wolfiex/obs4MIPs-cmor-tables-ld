@@ -1,0 +1,24 @@
+{
+    "@context": [
+        "../_context_",
+        {
+            "@base": "https://wcrp-cmip.github.io/CMIP6Plus_CVs/source/",
+            "@vocab": "https://wcrp-cmip.github.io/CMIP6Plus_CVs/source/",
+            "activity-participation": {
+                "@context": "https://wcrp-cmip.github.io/WCRP-UNIVERSE/activity/_context_",
+                "@type": "@id",
+                "@reverse": "https://wcrp-cmip.github.io/WCRP-UNIVERSE/activity/source_activity"
+            },
+            "license": {
+                "@context": "https://wcrp-cmip.github.io/WCRP-UNIVERSE/license/_context_",
+                "@container": "@id"
+            },
+            "organisation": {
+                "@context": "https://wcrp-cmip.github.io/WCRP-UNIVERSE/organisations/_context_",
+                "@type": "@id",
+                "@reverse": "https://wcrp-cmip.github.io/WCRP-UNIVERSE/organisations/source_contribution"
+            }
+        }
+    ],
+    "@embed": "@always"
+}
