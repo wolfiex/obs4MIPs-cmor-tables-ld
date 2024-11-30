@@ -1,0 +1,20 @@
+{
+    "region": [
+        "global"
+    ],
+    "release_year": "2011",
+    "source_label": "QuikSCAT",
+    "source_name": "QuikSCAT",
+    "source_type": "satellite_retrieval",
+    "source_variables": [
+        "sfcWind",
+        "uas",
+        "vas"
+    ],
+    "source_version_number": "v20110531",
+    "id": "quikscat-v20110531",
+    "type": "source",
+    "@context": "_context_",
+    "organisation": "nasa-jpl",
+    "description": "QuikSCAT winds monthly climatology derived from QuikSCAT L2B using the 2006 model function and processing algorithms."
+}

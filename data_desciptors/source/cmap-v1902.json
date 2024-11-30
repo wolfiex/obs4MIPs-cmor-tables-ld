@@ -1,0 +1,19 @@
+{
+    "region": [
+        "global"
+    ],
+    "release_year": "N/A",
+    "source_id": "CMAP-V1902",
+    "source_label": "CMAP",
+    "source_name": "CMAP",
+    "source_type": "satellite_blended",
+    "source_variables": [
+        "pr"
+    ],
+    "source_version_number": "V1902",
+    "id": "cmap-v1902",
+    "type": "source",
+    "@context": "_context_",
+    "organisation": "noaa-ncei",
+    "description": "CMAP Precipitation"
+}

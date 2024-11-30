@@ -1,0 +1,25 @@
+{
+    "region": [
+        "global"
+    ],
+    "release_year": "2017",
+    "source_id": "ESACCI-CLOUD-MERIS-AATSR-2-0",
+    "source_label": "ESACCI-CLOUD-MERIS-AATSR",
+    "source_name": "ESACCI CLOUD MERIS AATSR",
+    "source_type": "satellite_retrieval",
+    "source_variables": [
+        "clCCI",
+        "clivi",
+        "cltCCI",
+        "clwCCI",
+        "clwtCCI",
+        "clwvi",
+        "pctCCI"
+    ],
+    "source_version_number": "2.0",
+    "id": "esacci-cloud-meris-aatsr-2-0",
+    "type": "source",
+    "@context": "_context_",
+    "organisation": "dwd",
+    "description": "Cloud properties derived from MERIS and AATSR (aboard ENVISAT) measurements. This dataset belongs to the ESA Cloud_cci suite of long-term coherent cloud property datasets."
+}

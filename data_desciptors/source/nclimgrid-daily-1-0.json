@@ -1,0 +1,20 @@
+{
+    "region": "north_america",
+    "release_year": "2014",
+    "source_id": "nClimGrid-Daily-1-0",
+    "source_label": "nClimGrid-Daily-1-0",
+    "source_name": "nClimGrid-Daily-1-0",
+    "source_type": "gridded_insitu",
+    "source_variables": [
+        "pr",
+        "tas",
+        "tasmax",
+        "tasmin"
+    ],
+    "source_version_number": "1.0",
+    "id": "nclimgrid-daily-1-0",
+    "type": "source",
+    "@context": "_context_",
+    "organisation": "noaa-ncei",
+    "description": "NOAA nClimGrid-Daily"
+}

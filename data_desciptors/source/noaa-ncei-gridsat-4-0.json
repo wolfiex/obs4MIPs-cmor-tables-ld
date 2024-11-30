@@ -1,0 +1,19 @@
+{
+    "region": [
+        "global"
+    ],
+    "release_year": "2015",
+    "source_id": "NOAA-NCEI-GridSat-4-0",
+    "source_label": "NOAA-NCEI-GridSat",
+    "source_name": "NOAA NCEI GridSat",
+    "source_type": "satellite_retrieval",
+    "source_variables": [
+        "ttbr"
+    ],
+    "source_version_number": "4.0",
+    "id": "noaa-ncei-gridsat-4-0",
+    "type": "source",
+    "@context": "_context_",
+    "organisation": "noaa-ncei",
+    "description": "Gridded Satellite ISCCP B1 11 Micron Brightness Temperature"
+}

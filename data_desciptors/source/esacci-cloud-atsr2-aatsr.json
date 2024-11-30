@@ -1,0 +1,24 @@
+{
+    "region": [
+        "global"
+    ],
+    "release_year": "2020",
+    "source_label": "ESACCI-CLOUD-ATSR2-AATSR",
+    "source_name": "ESACCI-CLOUD-ATSR2-AATSR",
+    "source_type": "satellite_retrieval",
+    "source_variables": [
+        "clCCI",
+        "clivi",
+        "cltCCI",
+        "clwCCI",
+        "clwtCCI",
+        "clwvi",
+        "pctCCI"
+    ],
+    "source_version_number": "3.0",
+    "id": "esacci-cloud-atsr2-aatsr",
+    "type": "source",
+    "@context": "_context_",
+    "organisation": "dwd",
+    "description": "Cloud properties derived from ATSR2 and AATSR (aboard ERS2 and ENVISAT) measurements. This dataset belongs to the ESA Cloud_cci suite of long-term coherent cloud property datasets."
+}

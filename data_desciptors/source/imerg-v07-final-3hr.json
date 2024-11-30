@@ -1,0 +1,19 @@
+{
+    "region": [
+        "global"
+    ],
+    "release_year": "2023",
+    "source_id": "IMERG-V07-Final-3hr",
+    "source_label": "IMERG-V07-Final-3hr",
+    "source_name": "IMERG-V07-Final-3hr",
+    "source_type": "satellite_blended",
+    "source_variables": [
+        "pr"
+    ],
+    "source_version_number": "V07",
+    "id": "imerg-v07-final-3hr",
+    "type": "source",
+    "@context": "_context_",
+    "organisation": "nasa-gsfc",
+    "description": "NASA IMERG averaged to 3-hourly maps"
+}

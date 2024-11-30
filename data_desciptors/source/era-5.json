@@ -1,0 +1,24 @@
+{
+    "region": [
+        "global"
+    ],
+    "release_year": "2019",
+    "source_id": "ERA-5",
+    "source_label": "ECMWF-ERA-5",
+    "source_name": "ECMWF ERA-5",
+    "source_type": "reanalysis",
+    "source_variables": [
+        "psl",
+        "ta",
+        "tas",
+        "ua",
+        "va",
+        "zg"
+    ],
+    "source_version_number": "1.0",
+    "id": "era-5",
+    "type": "source",
+    "@context": "_context_",
+    "organisation": "ecmwf",
+    "description": "ECMWF - ERA5 (European ReAnalysis)"
+}

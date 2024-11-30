@@ -1,0 +1,18 @@
+{
+    "region": [
+        "global"
+    ],
+    "release_year": "2021",
+    "source_label": "MSWEP",
+    "source_name": "MSWEP",
+    "source_type": "gridded_insitu",
+    "source_variables": [
+        "pr"
+    ],
+    "source_version_number": "V280-Past-nogauge",
+    "id": "mswep-v280-past-nogauge",
+    "type": "source",
+    "@context": "_context_",
+    "organisation": "gloh2o",
+    "description": "Multi-Source Weighted-Ensemble Precipitation"
+}

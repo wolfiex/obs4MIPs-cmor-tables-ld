@@ -1,0 +1,20 @@
+{
+    "region": [
+        "global"
+    ],
+    "release_year": "2018",
+    "source_label": "Aura-MLS",
+    "source_name": "Aura MLS",
+    "source_type": "satellite_retrieval",
+    "source_variables": [
+        "cli",
+        "hus",
+        "ta"
+    ],
+    "source_version_number": "v04.2",
+    "id": "aura-mls-v04-2",
+    "type": "source",
+    "@context": "_context_",
+    "organisation": "nasa-jpl",
+    "description": "EOS Aura Microwave Limb Sounder"
+}

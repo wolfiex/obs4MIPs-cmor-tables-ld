@@ -1,0 +1,19 @@
+{
+    "region": [
+        "global"
+    ],
+    "release_year": "N/A",
+    "source_id": "GPCP-2-3",
+    "source_label": "GPCP",
+    "source_name": "GPCP",
+    "source_type": "satellite_blended",
+    "source_variables": [
+        "pr"
+    ],
+    "source_version_number": "2.3",
+    "id": "gpcp-2-3",
+    "type": "source",
+    "@context": "_context_",
+    "organisation": "noaa-ncei",
+    "description": "Merged Precipitation"
+}

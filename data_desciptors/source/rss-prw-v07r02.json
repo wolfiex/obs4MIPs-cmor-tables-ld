@@ -1,0 +1,19 @@
+{
+    "region": [
+        "global"
+    ],
+    "release_year": "2022",
+    "source_id": "RSS-PRW-v07r02",
+    "source_label": "RSS-PRW",
+    "source_name": "RSS-PRW",
+    "source_type": "satellite_blended",
+    "source_variables": [
+        "prw"
+    ],
+    "source_version_number": "7.2",
+    "id": "rss-prw-v07r02",
+    "type": "source",
+    "@context": "_context_",
+    "organisation": "rss",
+    "description": "RSS-PRW 7.2 (2022): Water Vapor Path"
+}

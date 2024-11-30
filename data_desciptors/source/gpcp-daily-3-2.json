@@ -1,0 +1,19 @@
+{
+    "region": [
+        "global"
+    ],
+    "release_year": "2022",
+    "source_id": "GPCP-Daily-3-2",
+    "source_label": "GPCP",
+    "source_name": "GPCP",
+    "source_type": "satellite_blended",
+    "source_variables": [
+        "pr"
+    ],
+    "source_version_number": "3.2",
+    "id": "gpcp-daily-3-2",
+    "type": "source",
+    "@context": "_context_",
+    "organisation": "nasa-gsfc",
+    "description": "Merged Precipitation"
+}

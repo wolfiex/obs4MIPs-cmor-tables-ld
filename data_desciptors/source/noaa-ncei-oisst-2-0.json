@@ -1,0 +1,18 @@
+{
+    "region": [
+        "global_ocean"
+    ],
+    "release_year": "2008",
+    "source_label": "NOAA NCEI OISST",
+    "source_name": "NOAA NCEI OISST",
+    "source_type": "satellite_blended",
+    "source_variables": [
+        "tos"
+    ],
+    "source_version_number": "2.0",
+    "id": "noaa-ncei-oisst-2-0",
+    "type": "source",
+    "@context": "_context_",
+    "organisation": "noaa-ncei",
+    "description": "Optimal Interpolation Sea Surface Temperature"
+}
