@@ -68,7 +68,7 @@ jobs:
         git push 
 
     - name: Publish
-      if: github.ref_name == 'jsonld_IV'
+      if: github.ref_name == 'main'
       uses: WCRP-CMIP/CMIP-LD/actions/publish2pages@main
       with:
         api_key: ${{ secrets.API_KEY }}
