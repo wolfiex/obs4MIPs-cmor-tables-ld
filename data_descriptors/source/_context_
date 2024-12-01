@@ -2,8 +2,8 @@
     "@context": [
         "../_context_",
         {
-            "@base": "https://wcrp-cmip.github.io/CMIP6Plus_CVs/source/",
-            "@vocab": "https://wcrp-cmip.github.io/CMIP6Plus_CVs/source/",
+            "@base": "https://wolfiex.github.io/obs4MIPs-cmor-tables-ld/source/",
+            "@vocab": "https://wolfiex.github.io/obs4MIPs-cmor-tables-ld/source/",
             "activity-participation": {
                 "@context": "https://wcrp-cmip.github.io/WCRP-UNIVERSE/activity/_context_",
                 "@type": "@id",
