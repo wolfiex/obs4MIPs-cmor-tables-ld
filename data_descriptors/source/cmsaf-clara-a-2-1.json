@@ -22,6 +22,8 @@
     "id": "cmsaf-clara-a-2-1",
     "type": "source",
     "@context": "_context_",
-    "organisation": "dwd",
+    "organisation": [
+        "institutions/dwd"
+    ],
     "description": "CM SAF cLoud, Albedo and surface RAdiation dataset from AVHRR data"
 }

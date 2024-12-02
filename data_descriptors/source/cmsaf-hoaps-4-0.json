@@ -21,6 +21,8 @@
     "id": "cmsaf-hoaps-4-0",
     "type": "source",
     "@context": "_context_",
-    "organisation": "dwd",
+    "organisation": [
+        "institutions/dwd"
+    ],
     "description": "Hamburg Ocean Atmosphere Parameters and fluxes from Satellite data, based on SSM/I and SSMIS aboard DMSP"
 }

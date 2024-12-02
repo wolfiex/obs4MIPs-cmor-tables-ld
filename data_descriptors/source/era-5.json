@@ -19,6 +19,8 @@
     "id": "era-5",
     "type": "source",
     "@context": "_context_",
-    "organisation": "ecmwf",
+    "organisation": [
+        "institutions/ecmwf"
+    ],
     "description": "ECMWF - ERA5 (European ReAnalysis)"
 }

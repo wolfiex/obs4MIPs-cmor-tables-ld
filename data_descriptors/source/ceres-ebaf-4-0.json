@@ -17,6 +17,8 @@
     "id": "ceres-ebaf-4-0",
     "type": "source",
     "@context": "_context_",
-    "organisation": "nasa-larc",
+    "organisation": [
+        "institutions/nasa-larc"
+    ],
     "description": "CERES EBAF (Energy Balanced and Filled) TOA Fluxes. Monthly Averages"
 }

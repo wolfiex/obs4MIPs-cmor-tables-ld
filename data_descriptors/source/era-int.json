@@ -17,6 +17,8 @@
     "id": "era-int",
     "type": "source",
     "@context": "_context_",
-    "organisation": "ecmwf",
+    "organisation": [
+        "institutions/ecmwf"
+    ],
     "description": "ECMWF-ERAINT 1.0 (2010): ECMWF - ERAINT (European ReAnalysis 1989-2010)"
 }

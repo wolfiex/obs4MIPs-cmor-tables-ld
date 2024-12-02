@@ -14,7 +14,7 @@
                 "@container": "@id"
             },
             "organisation": {
-                "@context": "https://wcrp-cmip.github.io/WCRP-UNIVERSE/organisations/_context_",
+                "@context": "https://wcrp-cmip.github.io/WCRP-UNIVERSE/_context_",
                 "@type": "@id",
                 "@reverse": "https://wcrp-cmip.github.io/WCRP-UNIVERSE/organisations/source_contribution"
             }

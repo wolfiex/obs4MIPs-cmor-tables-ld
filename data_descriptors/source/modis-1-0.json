@@ -13,6 +13,8 @@
     "id": "modis-1-0",
     "type": "source",
     "@context": "_context_",
-    "organisation": "nasa-gsfc",
+    "organisation": [
+        "institutions/nasa-gsfc"
+    ],
     "description": "Atmospheric Infrared Sounder"
 }

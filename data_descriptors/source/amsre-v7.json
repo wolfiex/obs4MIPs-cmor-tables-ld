@@ -14,6 +14,8 @@
     "id": "amsre-v7",
     "type": "source",
     "@context": "_context_",
-    "organisation": "rss",
+    "organisation": [
+        "institutions/rss"
+    ],
     "description": "Sea Surface Temperature from AMSR-E onboard AQUA"
 }

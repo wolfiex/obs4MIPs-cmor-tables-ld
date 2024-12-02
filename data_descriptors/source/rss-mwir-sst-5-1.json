@@ -14,6 +14,8 @@
     "id": "rss-mwir-sst-5-1",
     "type": "source",
     "@context": "_context_",
-    "organisation": "rss",
+    "organisation": [
+        "institutions/rss"
+    ],
     "description": "RSS MWIR v5.1 Foundation OISST"
 }

@@ -14,6 +14,8 @@
     "id": "imerg-v06-lu",
     "type": "source",
     "@context": "_context_",
-    "organisation": "nasa-gsfc",
+    "organisation": [
+        "institutions/nasa-gsfc"
+    ],
     "description": "NASA IMERG prepared for FROGS"
 }

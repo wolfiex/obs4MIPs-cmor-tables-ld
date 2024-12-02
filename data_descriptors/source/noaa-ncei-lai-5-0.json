@@ -14,6 +14,8 @@
     "id": "noaa-ncei-lai-5-0",
     "type": "source",
     "@context": "_context_",
-    "organisation": "noaa-ncei",
+    "organisation": [
+        "institutions/noaa-ncei"
+    ],
     "description": "AVHRR Leaf Area Index"
 }

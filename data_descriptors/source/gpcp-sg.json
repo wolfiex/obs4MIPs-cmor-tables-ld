@@ -13,6 +13,8 @@
     "id": "gpcp-sg",
     "type": "source",
     "@context": "_context_",
-    "organisation": "nasa-gsfc",
+    "organisation": [
+        "institutions/nasa-gsfc"
+    ],
     "description": "Global Precipitation Climatology Project Satellite-Gauge"
 }

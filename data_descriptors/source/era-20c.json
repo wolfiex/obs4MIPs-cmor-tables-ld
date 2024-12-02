@@ -15,6 +15,8 @@
     "id": "era-20c",
     "type": "source",
     "@context": "_context_",
-    "organisation": "ecmwf",
+    "organisation": [
+        "institutions/ecmwf"
+    ],
     "description": "ECMWF - ERA-20C (European ReAnalysis 1900-2010)"
 }

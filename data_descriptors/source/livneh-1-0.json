@@ -16,6 +16,8 @@
     "id": "livneh-1-0",
     "type": "source",
     "@context": "_context_",
-    "organisation": "noaa-esrl-psd",
+    "organisation": [
+        "institutions/noaa-esrl-psd"
+    ],
     "description": "Livneh daily CONUS near-surface gridded meteorological and derived hydrometeorological data data provided by the NOAA PSL"
 }

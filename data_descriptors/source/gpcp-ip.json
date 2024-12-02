@@ -14,6 +14,8 @@
     "id": "gpcp-ip",
     "type": "source",
     "@context": "_context_",
-    "organisation": "nasa-gsfc",
+    "organisation": [
+        "institutions/nasa-gsfc"
+    ],
     "description": "NASA GPCP prepared for FROGS"
 }

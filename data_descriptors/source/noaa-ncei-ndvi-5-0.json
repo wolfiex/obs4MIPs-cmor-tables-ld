@@ -14,6 +14,8 @@
     "id": "noaa-ncei-ndvi-5-0",
     "type": "source",
     "@context": "_context_",
-    "organisation": "noaa-ncei",
+    "organisation": [
+        "institutions/noaa-ncei"
+    ],
     "description": "Normalized Difference Vegetation Index"
 }

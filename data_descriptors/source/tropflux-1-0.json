@@ -20,6 +20,8 @@
     "id": "tropflux-1-0",
     "type": "source",
     "@context": "_context_",
-    "organisation": "esso",
+    "organisation": [
+        "institutions/esso"
+    ],
     "description": "TropFlux - Air-Sea Fluxes for the Global Tropical Oceans"
 }

@@ -13,6 +13,8 @@
     "id": "noaa-ncei-seaice-3-1",
     "type": "source",
     "@context": "_context_",
-    "organisation": "noaa-ncei",
+    "organisation": [
+        "institutions/noaa-ncei"
+    ],
     "description": "SSMI Passive Microwave Sea Ice Area Fraction"
 }

@@ -16,6 +16,8 @@
     "id": "cmsaf-sarah-2-0",
     "type": "source",
     "@context": "_context_",
-    "organisation": "dwd",
+    "organisation": [
+        "institutions/dwd"
+    ],
     "description": "Surface solAr RAdiation data set - Heliosat, based on MVIRI/SEVIRI aboard METEOSAT"
 }

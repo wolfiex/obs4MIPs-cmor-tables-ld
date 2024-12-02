@@ -14,6 +14,8 @@
     "id": "trmm-3b42-mw-v7-0",
     "type": "source",
     "@context": "_context_",
-    "organisation": "nasa-gsfc",
+    "organisation": [
+        "institutions/nasa-gsfc"
+    ],
     "description": "NASA-TRMM prepared for FROGS"
 }

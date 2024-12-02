@@ -13,6 +13,8 @@
     "id": "noaa-ncei-hirs-olr-1-2",
     "type": "source",
     "@context": "_context_",
-    "organisation": "noaa-ncei",
+    "organisation": [
+        "institutions/noaa-ncei"
+    ],
     "description": "HIRS Outgoing Longwave Radiation"
 }

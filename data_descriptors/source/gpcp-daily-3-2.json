@@ -14,6 +14,8 @@
     "id": "gpcp-daily-3-2",
     "type": "source",
     "@context": "_context_",
-    "organisation": "nasa-gsfc",
+    "organisation": [
+        "institutions/nasa-gsfc"
+    ],
     "description": "Merged Precipitation"
 }

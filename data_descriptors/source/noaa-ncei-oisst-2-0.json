@@ -13,6 +13,8 @@
     "id": "noaa-ncei-oisst-2-0",
     "type": "source",
     "@context": "_context_",
-    "organisation": "noaa-ncei",
+    "organisation": [
+        "institutions/noaa-ncei"
+    ],
     "description": "Optimal Interpolation Sea Surface Temperature"
 }

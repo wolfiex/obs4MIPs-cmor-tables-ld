@@ -14,6 +14,8 @@
     "id": "hadisst-1-1",
     "type": "source",
     "@context": "_context_",
-    "organisation": "mohc",
+    "organisation": [
+        "institutions/mohc"
+    ],
     "description": "HadISST 1.1 monthly average sea surface temperature"
 }

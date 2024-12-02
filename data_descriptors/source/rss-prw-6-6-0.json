@@ -14,6 +14,8 @@
     "id": "rss-prw-6-6-0",
     "type": "source",
     "@context": "_context_",
-    "organisation": "rss",
+    "organisation": [
+        "institutions/rss"
+    ],
     "description": "RSS-PRW 6.6.0 (2017): Water Vapor Path"
 }

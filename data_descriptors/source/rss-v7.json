@@ -16,6 +16,8 @@
     "id": "rss-v7",
     "type": "source",
     "@context": "_context_",
-    "organisation": "rss",
+    "organisation": [
+        "institutions/rss"
+    ],
     "description": "Satellite derived fields produced by RSS"
 }

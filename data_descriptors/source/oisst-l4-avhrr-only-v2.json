@@ -14,6 +14,8 @@
     "id": "oisst-l4-avhrr-only-v2",
     "type": "source",
     "@context": "_context_",
-    "organisation": "noaa-ncei",
+    "organisation": [
+        "institutions/noaa-ncei"
+    ],
     "description": "SST-AVHRR_only.v2 2008 NOAA 1/4 Degree Daily Optimum Interpolation Sea Surface Temperature Analysis using AVHRR, Version 2"
 }

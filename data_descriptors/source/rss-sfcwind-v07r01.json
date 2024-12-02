@@ -14,6 +14,8 @@
     "id": "rss-sfcwind-v07r01",
     "type": "source",
     "@context": "_context_",
-    "organisation": "rss",
+    "organisation": [
+        "institutions/rss"
+    ],
     "description": "RSS-sfcWind 7.0 (2021): 10m Surface Wind"
 }

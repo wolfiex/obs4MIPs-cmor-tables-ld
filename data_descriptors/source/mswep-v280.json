@@ -13,6 +13,8 @@
     "id": "mswep-v280",
     "type": "source",
     "@context": "_context_",
-    "organisation": "gloh2o",
+    "organisation": [
+        "institutions/gloh2o"
+    ],
     "description": "Multi-Source Weighted-Ensemble Precipitation"
 }

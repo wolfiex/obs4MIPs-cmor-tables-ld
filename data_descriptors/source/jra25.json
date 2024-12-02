@@ -17,6 +17,8 @@
     "id": "jra25",
     "type": "source",
     "@context": "_context_",
-    "organisation": "mri",
+    "organisation": [
+        "institutions/mri"
+    ],
     "description": "JRA25 1.0 (2002): JRA25 (Japanese ReAnalysis 1957-2002)"
 }

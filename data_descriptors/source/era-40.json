@@ -16,6 +16,8 @@
     "id": "era-40",
     "type": "source",
     "@context": "_context_",
-    "organisation": "ecmwf",
+    "organisation": [
+        "institutions/ecmwf"
+    ],
     "description": "ECMWF - ERA-40 (European ReAnalysis 1957-2002)"
 }

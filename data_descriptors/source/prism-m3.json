@@ -16,6 +16,8 @@
     "id": "prism-m3",
     "type": "source",
     "@context": "_context_",
-    "organisation": "osu",
+    "organisation": [
+        "institutions/osu"
+    ],
     "description": "PRISM Spatial Climate Datasets for CONUS"
 }

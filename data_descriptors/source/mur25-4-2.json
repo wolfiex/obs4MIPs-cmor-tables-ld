@@ -13,6 +13,8 @@
     "id": "mur25-4-2",
     "type": "source",
     "@context": "_context_",
-    "organisation": "nasa-jpl",
+    "organisation": [
+        "institutions/nasa-jpl"
+    ],
     "description": "Multiscale Ultrahigh Resolution L4 Sea-Surface Temperature"
 }

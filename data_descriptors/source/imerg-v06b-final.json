@@ -14,6 +14,8 @@
     "id": "imerg-v06b-final",
     "type": "source",
     "@context": "_context_",
-    "organisation": "nasa-gsfc",
+    "organisation": [
+        "institutions/nasa-gsfc"
+    ],
     "description": "Integrated Multi-satellitE Retrievals for Global Precipitation Measurement (IMERG)"
 }

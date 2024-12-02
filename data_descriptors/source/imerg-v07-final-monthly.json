@@ -14,6 +14,8 @@
     "id": "imerg-v07-final-monthly",
     "type": "source",
     "@context": "_context_",
-    "organisation": "nasa-gsfc",
+    "organisation": [
+        "institutions/nasa-gsfc"
+    ],
     "description": "NASA IMERG Monthly Maps"
 }
