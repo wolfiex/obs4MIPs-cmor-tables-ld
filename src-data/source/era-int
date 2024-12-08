@@ -1,0 +1,27 @@
+{
+    "region": [
+        "global"
+    ],
+    "release_year": "2010",
+    "source_id": "ERA-INT",
+    "source_label": "ECMWF-ERAINT",
+    "source_name": "ECMWF-ERAINT",
+    "source_type": "reanalysis",
+    "source_variables": [
+        "ta",
+        "ua",
+        "va",
+        "zg"
+    ],
+    "source_version_number": "N/A",
+    "id": "era-int",
+    "type": [
+        "wcrp:source",
+        "obs4mips"
+    ],
+    "@context": "_context_",
+    "organisation": [
+        "institutions/ecmwf"
+    ],
+    "description": "ECMWF-ERAINT 1.0 (2010): ECMWF - ERAINT (European ReAnalysis 1989-2010)"
+}

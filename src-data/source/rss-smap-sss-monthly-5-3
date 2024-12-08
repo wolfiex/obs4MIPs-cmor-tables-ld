@@ -1,0 +1,24 @@
+{
+    "region": [
+        "global ocean"
+    ],
+    "release_year": "2023",
+    "source_id": "RSS-SMAP-SSS-Monthly-5-3",
+    "source_label": "RSS-SMAP-SSS-Monthly-5-3",
+    "source_name": "RSS-SMAP-SSS-Monthly-5-3",
+    "source_type": "satellite_retrieval",
+    "source_variables": [
+        "sos"
+    ],
+    "source_version_number": "5.3",
+    "id": "rss-smap-sss-monthly-5-3",
+    "type": [
+        "wcrp:source",
+        "obs4mips"
+    ],
+    "@context": "_context_",
+    "organisation": [
+        "institutions/rss"
+    ],
+    "description": "Satellite derived SSS produced by RSS"
+}

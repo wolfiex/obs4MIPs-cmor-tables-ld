@@ -1,0 +1,24 @@
+{
+    "region": [
+        "global"
+    ],
+    "release_year": "2019",
+    "source_id": "IMERG-v06B-Final",
+    "source_label": "IMERG v06B Final",
+    "source_name": "IMERG",
+    "source_type": "satellite_blended",
+    "source_variables": [
+        "pr"
+    ],
+    "source_version_number": "v06B_Final",
+    "id": "imerg-v06b-final",
+    "type": [
+        "wcrp:source",
+        "obs4mips"
+    ],
+    "@context": "_context_",
+    "organisation": [
+        "institutions/nasa-gsfc"
+    ],
+    "description": "Integrated Multi-satellitE Retrievals for Global Precipitation Measurement (IMERG)"
+}

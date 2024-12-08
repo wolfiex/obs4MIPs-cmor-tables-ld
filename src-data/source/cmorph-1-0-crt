@@ -1,0 +1,24 @@
+{
+    "region": [
+        "global"
+    ],
+    "release_year": "N/A",
+    "source_id": "CMORPH-1-0-CRT",
+    "source_label": "CMORPH",
+    "source_name": "CMORPH",
+    "source_type": "satellite_blended",
+    "source_variables": [
+        "pr"
+    ],
+    "source_version_number": "1.0-CRT",
+    "id": "cmorph-1-0-crt",
+    "type": [
+        "wcrp:source",
+        "obs4mips"
+    ],
+    "@context": "_context_",
+    "organisation": [
+        "institutions/noaa"
+    ],
+    "description": "NOAA CMORPH prepared for FROGS"
+}

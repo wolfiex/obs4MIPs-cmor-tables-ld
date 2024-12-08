@@ -1,0 +1,23 @@
+{
+    "region": [
+        "global"
+    ],
+    "release_year": "2014",
+    "source_label": "NOAA NCEI HIRS OLR",
+    "source_name": "NOAA NCEI HIRS OLR",
+    "source_type": "satellite_retrieval",
+    "source_variables": [
+        "rlut"
+    ],
+    "source_version_number": "1.2",
+    "id": "noaa-ncei-hirs-olr-1-2",
+    "type": [
+        "wcrp:source",
+        "obs4mips"
+    ],
+    "@context": "_context_",
+    "organisation": [
+        "institutions/noaa-ncei"
+    ],
+    "description": "HIRS Outgoing Longwave Radiation"
+}

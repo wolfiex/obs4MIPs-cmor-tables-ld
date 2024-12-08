@@ -1,0 +1,24 @@
+{
+    "region": [
+        "global_ocean"
+    ],
+    "release_year": "2016",
+    "source_id": "HadISST-1-1",
+    "source_label": "HadISST-1-1",
+    "source_name": "HadISST-1-1",
+    "source_type": "satellite_blended",
+    "source_variables": [
+        "ts"
+    ],
+    "source_version_number": "1-1",
+    "id": "hadisst-1-1",
+    "type": [
+        "wcrp:source",
+        "obs4mips"
+    ],
+    "@context": "_context_",
+    "organisation": [
+        "institutions/mohc"
+    ],
+    "description": "HadISST 1.1 monthly average sea surface temperature"
+}

@@ -1,0 +1,25 @@
+{
+    "region": [
+        "global"
+    ],
+    "release_year": "2014",
+    "source_id": "ERA-20C",
+    "source_label": "ECMWF-ERA-20C",
+    "source_name": "ECMWF ERA-20C",
+    "source_type": "reanalysis",
+    "source_variables": [
+        "psl",
+        "ts"
+    ],
+    "source_version_number": "1.0",
+    "id": "era-20c",
+    "type": [
+        "wcrp:source",
+        "obs4mips"
+    ],
+    "@context": "_context_",
+    "organisation": [
+        "institutions/ecmwf"
+    ],
+    "description": "ECMWF - ERA-20C (European ReAnalysis 1900-2010)"
+}

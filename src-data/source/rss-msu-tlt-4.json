@@ -1,0 +1,24 @@
+{
+    "region": [
+        "global"
+    ],
+    "release_year": "2016",
+    "source_id": "RSS-MSU-TLT-4",
+    "source_label": "RSS-MSU-TLT",
+    "source_name": "RSS-MSU-TLT",
+    "source_type": "satellite_blended",
+    "source_variables": [
+        "tlt"
+    ],
+    "source_version_number": "4.0",
+    "id": "rss-msu-tlt-4",
+    "type": [
+        "wcrp:source",
+        "obs4mips"
+    ],
+    "@context": "_context_",
+    "organisation": [
+        "institutions/rss"
+    ],
+    "description": "RSS MSU Temperature Lower Troposphere v4.0"
+}

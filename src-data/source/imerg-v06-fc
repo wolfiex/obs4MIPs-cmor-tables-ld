@@ -1,0 +1,24 @@
+{
+    "region": [
+        "global"
+    ],
+    "release_year": "2017",
+    "source_id": "IMERG-V06-FC",
+    "source_label": "IMERG-V06-EU",
+    "source_name": "IMERG-V06-EU",
+    "source_type": "satellite_blended",
+    "source_variables": [
+        "pr"
+    ],
+    "source_version_number": "V06-FC",
+    "id": "imerg-v06-fc",
+    "type": [
+        "wcrp:source",
+        "obs4mips"
+    ],
+    "@context": "_context_",
+    "organisation": [
+        "institutions/nasa-gsfc"
+    ],
+    "description": "NASA IMERG prepared for FROGS"
+}

@@ -1,0 +1,24 @@
+{
+    "region": [
+        "global"
+    ],
+    "release_year": "2011",
+    "source_label": "AIRS",
+    "source_name": "AIRS",
+    "source_type": "satellite_retrieval",
+    "source_variables": [
+        "hus",
+        "ta"
+    ],
+    "source_version_number": "2.0",
+    "id": "airs-2-0",
+    "type": [
+        "wcrp:source",
+        "obs4mips"
+    ],
+    "@context": "_context_",
+    "organisation": [
+        "institutions/nasa-jpl"
+    ],
+    "description": "Atmospheric Infrared Sounder"
+}

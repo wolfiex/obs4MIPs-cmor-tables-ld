@@ -1,0 +1,24 @@
+{
+    "region": [
+        "global"
+    ],
+    "release_year": "N/A",
+    "source_id": "GPCP-IP",
+    "source_label": "GPCP",
+    "source_name": "GPCP",
+    "source_type": "satellite_blended",
+    "source_variables": [
+        "pr"
+    ],
+    "source_version_number": "1.3",
+    "id": "gpcp-ip",
+    "type": [
+        "wcrp:source",
+        "obs4mips"
+    ],
+    "@context": "_context_",
+    "organisation": [
+        "institutions/nasa-gsfc"
+    ],
+    "description": "NASA GPCP prepared for FROGS"
+}
