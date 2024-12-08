@@ -41,7 +41,10 @@
   ],
   "source_version_number": "V2",
   "id": "20cr-v2",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/noaa-esrl-psd"
   ],
@@ -61,7 +64,10 @@
   ],
   "source_version_number": "1.0",
   "id": "airs-1-0",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/nasa-jpl"
   ],
@@ -81,7 +87,10 @@
   ],
   "source_version_number": "2.0",
   "id": "airs-2-0",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/nasa-jpl"
   ],
@@ -101,7 +110,10 @@
   ],
   "source_version_number": "v7",
   "id": "amsre-v7",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/rss"
   ],
@@ -122,7 +134,10 @@
   ],
   "source_version_number": "v04.2",
   "id": "aura-mls-v04-2",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/nasa-jpl"
   ],
@@ -142,7 +157,10 @@
   ],
   "source_version_number": "1.0",
   "id": "aviso-1-0",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/cnes"
   ],
@@ -162,7 +180,10 @@
   ],
   "source_version_number": "9.0",
   "id": "c3s-gto-ecv-9-0",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/dlr-bira"
   ],
@@ -182,7 +203,10 @@
   ],
   "source_version_number": "3.1",
   "id": "ccmp-3-1",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/rss"
   ],
@@ -202,7 +226,10 @@
   ],
   "source_version_number": "3.1",
   "id": "ccmp-monthly-3-1",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/rss"
   ],
@@ -225,7 +252,10 @@
   ],
   "source_version_number": "4.0",
   "id": "ceres-ebaf-4-0",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/nasa-larc"
   ],
@@ -248,7 +278,10 @@
   ],
   "source_version_number": "4.1",
   "id": "ceres-ebaf-4-1",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/nasa-larc"
   ],
@@ -271,7 +304,10 @@
   ],
   "source_version_number": "4.2",
   "id": "ceres-ebaf-4-2",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/nasa-larc"
   ],
@@ -291,7 +327,10 @@
   ],
   "source_version_number": "V1902",
   "id": "cmap-v1902",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/noaa-ncei"
   ],
@@ -311,7 +350,10 @@
   ],
   "source_version_number": "1.0-CRT",
   "id": "cmorph-1-0-crt",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/noaa"
   ],
@@ -331,7 +373,10 @@
   ],
   "source_version_number": "1.0",
   "id": "cmorph-1-0",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/noaa"
   ],
@@ -359,7 +404,10 @@
   ],
   "source_version_number": "2.1",
   "id": "cmsaf-clara-a-2-1",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/dwd"
   ],
@@ -386,7 +434,10 @@
   ],
   "source_version_number": "4.0",
   "id": "cmsaf-hoaps-4-0",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/dwd"
   ],
@@ -408,7 +459,10 @@
   ],
   "source_version_number": "2.0",
   "id": "cmsaf-sarah-2-0",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/dwd"
   ],
@@ -429,7 +483,10 @@
   ],
   "source_version_number": "1.0",
   "id": "era-20c",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/ecmwf"
   ],
@@ -451,7 +508,10 @@
   ],
   "source_version_number": "1.0",
   "id": "era-40",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/ecmwf"
   ],
@@ -476,7 +536,10 @@
   ],
   "source_version_number": "1.0",
   "id": "era-5",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/ecmwf"
   ],
@@ -499,7 +562,10 @@
   ],
   "source_version_number": "N/A",
   "id": "era-int",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/ecmwf"
   ],
@@ -519,7 +585,10 @@
   ],
   "source_version_number": "v2.1",
   "id": "esa-cci-sst-v2-1",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/ureading"
   ],
@@ -545,7 +614,10 @@
   ],
   "source_version_number": "2.0",
   "id": "esacci-cloud-atsr2-aatsr-2-0",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/dwd"
   ],
@@ -570,7 +642,10 @@
   ],
   "source_version_number": "3.0",
   "id": "esacci-cloud-atsr2-aatsr",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/dwd"
   ],
@@ -596,7 +671,10 @@
   ],
   "source_version_number": "2.0",
   "id": "esacci-cloud-avhrr-am-2-0",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/dwd"
   ],
@@ -621,7 +699,10 @@
   ],
   "source_version_number": "3.0",
   "id": "esacci-cloud-avhrr-am",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/dwd"
   ],
@@ -647,7 +728,10 @@
   ],
   "source_version_number": "2.0",
   "id": "esacci-cloud-avhrr-pm-2-0",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/dwd"
   ],
@@ -672,7 +756,10 @@
   ],
   "source_version_number": "3.0",
   "id": "esacci-cloud-avhrr-pm",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/dwd"
   ],
@@ -698,7 +785,10 @@
   ],
   "source_version_number": "2.0",
   "id": "esacci-cloud-meris-aatsr-2-0",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/dwd"
   ],
@@ -718,7 +808,10 @@
   ],
   "source_version_number": "HR_ED01_1.0",
   "id": "gerb-hr-ed01-1-0",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/imperialcollege"
   ],
@@ -738,7 +831,10 @@
   ],
   "source_version_number": "HR_ED01_1.1",
   "id": "gerb-hr-ed01-1-1",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/imperialcollege"
   ],
@@ -758,7 +854,10 @@
   ],
   "source_version_number": "1.3",
   "id": "gnss-ro-1-3",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/nasa-jpl"
   ],
@@ -778,7 +877,10 @@
   ],
   "source_version_number": "1.3",
   "id": "gpcp-1-3",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/nasa-jpl"
   ],
@@ -798,7 +900,10 @@
   ],
   "source_version_number": "1.3",
   "id": "gpcp-1dd-1-3",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/nasa-gsfc"
   ],
@@ -818,7 +923,10 @@
   ],
   "source_version_number": "1.3",
   "id": "gpcp-1dd-cdr-v1-3",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/nasa-gsfc"
   ],
@@ -838,7 +946,10 @@
   ],
   "source_version_number": "1.3",
   "id": "gpcp-1dd",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/nasa-gsfc"
   ],
@@ -858,7 +969,10 @@
   ],
   "source_version_number": "2.3",
   "id": "gpcp-2-3",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/noaa-ncei"
   ],
@@ -878,7 +992,10 @@
   ],
   "source_version_number": "3.2",
   "id": "gpcp-daily-3-2",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/nasa-gsfc"
   ],
@@ -898,7 +1015,10 @@
   ],
   "source_version_number": "1.3",
   "id": "gpcp-ip",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/nasa-gsfc"
   ],
@@ -918,7 +1038,10 @@
   ],
   "source_version_number": "3.2",
   "id": "gpcp-monthly-3-2",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/nasa-gsfc"
   ],
@@ -937,7 +1060,10 @@
   ],
   "source_version_number": "2.3",
   "id": "gpcp-sg-2-3",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/nasa-gsfc"
   ],
@@ -956,7 +1082,10 @@
   ],
   "source_version_number": "2.3",
   "id": "gpcp-sg",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/nasa-gsfc"
   ],
@@ -976,7 +1105,10 @@
   ],
   "source_version_number": "6.0",
   "id": "gsmap-gauges-nrt-v6-0",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/jaxa"
   ],
@@ -996,7 +1128,10 @@
   ],
   "source_version_number": "1-1",
   "id": "hadisst-1-1",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/mohc"
   ],
@@ -1016,7 +1151,10 @@
   ],
   "source_version_number": "V06-EU",
   "id": "imerg-v06-eu",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/nasa-gsfc"
   ],
@@ -1036,7 +1174,10 @@
   ],
   "source_version_number": "V06-FC",
   "id": "imerg-v06-fc",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/nasa-gsfc"
   ],
@@ -1056,7 +1197,10 @@
   ],
   "source_version_number": "V06-FU",
   "id": "imerg-v06-fu",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/nasa-gsfc"
   ],
@@ -1076,7 +1220,10 @@
   ],
   "source_version_number": "V06-LU",
   "id": "imerg-v06-lu",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/nasa-gsfc"
   ],
@@ -1096,7 +1243,10 @@
   ],
   "source_version_number": "V06B",
   "id": "imerg-v06b-final-3hr",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/nasa-gsfc"
   ],
@@ -1116,7 +1266,10 @@
   ],
   "source_version_number": "v06B_Final",
   "id": "imerg-v06b-final",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/nasa-gsfc"
   ],
@@ -1136,7 +1289,10 @@
   ],
   "source_version_number": "V07",
   "id": "imerg-v07-final-3hr",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/nasa-gsfc"
   ],
@@ -1156,7 +1312,10 @@
   ],
   "source_version_number": "V07",
   "id": "imerg-v07-final-daily",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/nasa-gsfc"
   ],
@@ -1176,7 +1335,10 @@
   ],
   "source_version_number": "V07",
   "id": "imerg-v07-final-monthly",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/nasa-gsfc"
   ],
@@ -1196,7 +1358,10 @@
   ],
   "source_version_number": "V07",
   "id": "imerg-v07-final",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/nasa-gsfc"
   ],
@@ -1219,7 +1384,10 @@
   ],
   "source_version_number": "N/A",
   "id": "jra25",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/mri"
   ],
@@ -1241,7 +1409,10 @@
   ],
   "source_version_number": "1.0",
   "id": "livneh-1-0",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/noaa-esrl-psd"
   ],
@@ -1261,7 +1432,10 @@
   ],
   "source_version_number": "1.0",
   "id": "livneh-unsplit-1-0",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/ucsd-sio"
   ],
@@ -1280,7 +1454,10 @@
   ],
   "source_version_number": "1.0",
   "id": "modis-1-0",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/nasa-gsfc"
   ],
@@ -1299,7 +1476,10 @@
   ],
   "source_version_number": "1.0",
   "id": "mswep-1-0",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/gloh2o"
   ],
@@ -1318,7 +1498,10 @@
   ],
   "source_version_number": "V280-Past-NRT",
   "id": "mswep-v280-nrt",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/gloh2o"
   ],
@@ -1337,7 +1520,10 @@
   ],
   "source_version_number": "V280-Past-nogauge",
   "id": "mswep-v280-past-nogauge",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/gloh2o"
   ],
@@ -1356,7 +1542,10 @@
   ],
   "source_version_number": "V280-Past",
   "id": "mswep-v280-past",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/gloh2o"
   ],
@@ -1375,7 +1564,10 @@
   ],
   "source_version_number": "V280",
   "id": "mswep-v280",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/gloh2o"
   ],
@@ -1394,7 +1586,10 @@
   ],
   "source_version_number": "v4.2",
   "id": "mur25-4-2",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/nasa-jpl"
   ],
@@ -1415,7 +1610,10 @@
   ],
   "source_version_number": "1.0",
   "id": "nclimgrid-daily-1-0",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/noaa-ncei"
   ],
@@ -1436,7 +1634,10 @@
   ],
   "source_version_number": "1.0",
   "id": "nclimgrid-monthly-1-0",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/noaa-ncei"
   ],
@@ -1456,7 +1657,10 @@
   ],
   "source_version_number": "4.0",
   "id": "noaa-ncei-avhrr-ndvi-4-0",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/noaa-ncei"
   ],
@@ -1476,7 +1680,10 @@
   ],
   "source_version_number": "4.0",
   "id": "noaa-ncei-ersst-4-0",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/noaa-ncei"
   ],
@@ -1496,7 +1703,10 @@
   ],
   "source_version_number": "5.0",
   "id": "noaa-ncei-ersst-5-0",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/noaa-ncei"
   ],
@@ -1516,7 +1726,10 @@
   ],
   "source_version_number": "4.0",
   "id": "noaa-ncei-fapar-4-0",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/noaa-ncei"
   ],
@@ -1536,7 +1749,10 @@
   ],
   "source_version_number": "5.0",
   "id": "noaa-ncei-fapar-5-0",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/noaa-ncei"
   ],
@@ -1556,7 +1772,10 @@
   ],
   "source_version_number": "5.0",
   "id": "noaa-ncei-fapar",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/noaa-ncei"
   ],
@@ -1576,7 +1795,10 @@
   ],
   "source_version_number": "4.0",
   "id": "noaa-ncei-gridsat-4-0",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/noaa-ncei"
   ],
@@ -1595,7 +1817,10 @@
   ],
   "source_version_number": "1.2",
   "id": "noaa-ncei-hirs-olr-1-2",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/noaa-ncei"
   ],
@@ -1615,7 +1840,10 @@
   ],
   "source_version_number": "4.0",
   "id": "noaa-ncei-lai-4-0",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/noaa-ncei"
   ],
@@ -1635,7 +1863,10 @@
   ],
   "source_version_number": "5.0",
   "id": "noaa-ncei-lai-5-0",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/noaa-ncei"
   ],
@@ -1655,7 +1886,10 @@
   ],
   "source_version_number": "5.0",
   "id": "noaa-ncei-ndvi-5-0",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/noaa-ncei"
   ],
@@ -1675,7 +1909,10 @@
   ],
   "source_version_number": "5.0",
   "id": "noaa-ncei-ndvi",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/noaa-ncei"
   ],
@@ -1694,7 +1931,10 @@
   ],
   "source_version_number": "2.0",
   "id": "noaa-ncei-oisst-2-0",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/noaa-ncei"
   ],
@@ -1714,7 +1954,10 @@
   ],
   "source_version_number": "1.1",
   "id": "noaa-ncei-persiann-1-1",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/noaa-ncei"
   ],
@@ -1733,7 +1976,10 @@
   ],
   "source_version_number": "3.1",
   "id": "noaa-ncei-seaice-3-1",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/noaa-ncei"
   ],
@@ -1755,7 +2001,10 @@
   ],
   "source_version_number": "1.2",
   "id": "noaa-ncei-seawinds-1-2",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/noaa-ncei"
   ],
@@ -1775,7 +2024,10 @@
   ],
   "source_version_number": "2.0",
   "id": "noaa-ncei-ssmi-seaice-2-0",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/noaa-ncei"
   ],
@@ -1795,7 +2047,10 @@
   ],
   "source_version_number": "v2",
   "id": "oisst-l4-avhrr-only-v2",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/noaa-ncei"
   ],
@@ -1815,7 +2070,10 @@
   ],
   "source_version_number": "CDRv1r1",
   "id": "persiann-cdrv1r1",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/noaa"
   ],
@@ -1837,7 +2095,10 @@
   ],
   "source_version_number": "M3",
   "id": "prism-m3",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/osu"
   ],
@@ -1858,7 +2119,10 @@
   ],
   "source_version_number": "v20110531",
   "id": "quikscat-v20110531",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/nasa-jpl"
   ],
@@ -1878,7 +2142,10 @@
   ],
   "source_version_number": "4.0",
   "id": "rss-msu-tls-4",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/rss"
   ],
@@ -1898,7 +2165,10 @@
   ],
   "source_version_number": "4.0",
   "id": "rss-msu-tlt-4",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/rss"
   ],
@@ -1918,7 +2188,10 @@
   ],
   "source_version_number": "4.0",
   "id": "rss-msu-tmt-4",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/rss"
   ],
@@ -1938,7 +2211,10 @@
   ],
   "source_version_number": "5.1",
   "id": "rss-mwir-sst-5-1",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/rss"
   ],
@@ -1958,7 +2234,10 @@
   ],
   "source_version_number": "6.6.0",
   "id": "rss-prw-6-6-0",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/rss"
   ],
@@ -1978,7 +2257,10 @@
   ],
   "source_version_number": "7.1",
   "id": "rss-prw-v07r01",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/rss"
   ],
@@ -1998,7 +2280,10 @@
   ],
   "source_version_number": "7.2",
   "id": "rss-prw-v07r02",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/rss"
   ],
@@ -2018,7 +2303,10 @@
   ],
   "source_version_number": "7.1",
   "id": "rss-sfcwind-v07r01",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/rss"
   ],
@@ -2038,7 +2326,10 @@
   ],
   "source_version_number": "5.3",
   "id": "rss-smap-sss-monthly-5-3",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/rss"
   ],
@@ -2058,7 +2349,10 @@
   ],
   "source_version_number": "5.3",
   "id": "rss-smap-sss-monthly-v05r03",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/rss"
   ],
@@ -2078,7 +2372,10 @@
   ],
   "source_version_number": "5.0",
   "id": "rss-smap-sss-v05r01",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/rss"
   ],
@@ -2098,7 +2395,10 @@
   ],
   "source_version_number": "5.3",
   "id": "rss-smap-sss-v05r03",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/rss"
   ],
@@ -2120,7 +2420,10 @@
   ],
   "source_version_number": "v7",
   "id": "rss-v7",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/rss"
   ],
@@ -2140,7 +2443,10 @@
   ],
   "source_version_number": "1.0",
   "id": "tes-1-0",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/nasa-jpl"
   ],
@@ -2160,7 +2466,10 @@
   ],
   "source_version_number": "3B42.IR.v7.0",
   "id": "trmm-3b42-ir-v7-0",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/nasa-gsfc"
   ],
@@ -2180,7 +2489,10 @@
   ],
   "source_version_number": "3B42.MW.v7.0",
   "id": "trmm-3b42-mw-v7-0",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/nasa-gsfc"
   ],
@@ -2200,7 +2512,10 @@
   ],
   "source_version_number": "3B42v.7",
   "id": "trmm-3b42v-7",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/nasa-gsfc"
   ],
@@ -2220,7 +2535,10 @@
   ],
   "source_version_number": "3B43v.7",
   "id": "trmm-3b43v-7",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/nasa-gsfc"
   ],
@@ -2240,7 +2558,10 @@
   ],
   "source_version_number": "v7-7A",
   "id": "trmm-tmpa-3b42-v7-7a",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/nasa-gsfc"
   ],
@@ -2260,7 +2581,10 @@
   ],
   "source_version_number": "v7-7A",
   "id": "trmm-tmpa-3b43-v7-7a",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/nasa-gsfc"
   ],
@@ -2286,7 +2610,10 @@
   ],
   "source_version_number": "1.0",
   "id": "tropflux-1-0",
-  "type": "source",
+  "type": [
+    "wcrp:source",
+    "obs4mips"
+  ],
   "organisation": [
     "institutions/esso"
   ],
