@@ -1,0 +1,26 @@
+{
+    "@context": [
+        "../_context_",
+        {
+            "@base": "https://wolfiex.github.io/obs4MIPs-cmor-tables-ld/source/",
+            "@vocab": "https://wolfiex.github.io/obs4MIPs-cmor-tables-ld/source/",
+            "activity-participation": {
+                "@context": "https://wcrp-cmip.github.io/WCRP-universe/activity/_context_",
+                "@type": "@id",
+                "@reverse": "https://wcrp-cmip.github.io/WCRP-universe/activity/source_activity"
+            },
+            "license": {
+                "@context": "https://wcrp-cmip.github.io/WCRP-universe/license/_context_",
+                "@container": "@id"
+            },
+            "organisation": {
+                "@context": "https://wcrp-cmip.github.io/WCRP-universe/_context_",
+                "@type": "@id"
+            }
+        }
+    ],
+    "@embed": "@always",
+    "@type": [
+        "obs4mips"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "region": [
+        "global"
+    ],
+    "release_year": "2005",
+    "source_id": "ERA-40",
+    "source_label": "ECMWF-ERA-40",
+    "source_name": "ECMWF ERA-40",
+    "source_type": "reanalysis",
+    "source_variables": [
+        "ta",
+        "ua",
+        "va"
+    ],
+    "source_version_number": "1.0",
+    "id": "era-40",
+    "type": [
+        "wcrp:source",
+        "obs4mips"
+    ],
+    "@context": "_context_",
+    "organisation": [
+        "institutions/ecmwf"
+    ],
+    "description": "ECMWF - ERA-40 (European ReAnalysis 1957-2002)"
+}

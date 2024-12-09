@@ -1,0 +1,26 @@
+{
+    "region": [
+        "north_america"
+    ],
+    "release_year": "2021",
+    "source_label": "livneh",
+    "source_name": "livneh",
+    "source_type": "gridded_insitu",
+    "source_variables": [
+        "pr",
+        "sfcWind",
+        "tasmax",
+        "tasmin"
+    ],
+    "source_version_number": "1.0",
+    "id": "livneh-1-0",
+    "type": [
+        "wcrp:source",
+        "obs4mips"
+    ],
+    "@context": "_context_",
+    "organisation": [
+        "institutions/noaa-esrl-psd"
+    ],
+    "description": "Livneh daily CONUS near-surface gridded meteorological and derived hydrometeorological data data provided by the NOAA PSL"
+}
