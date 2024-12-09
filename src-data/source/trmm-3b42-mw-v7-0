@@ -1,0 +1,24 @@
+{
+    "region": [
+        "global"
+    ],
+    "release_year": "2017",
+    "source_id": "TRMM-3B42-MW-v7-0",
+    "source_label": "TRMM",
+    "source_name": "TRMM",
+    "source_type": "satellite_blended",
+    "source_variables": [
+        "pr"
+    ],
+    "source_version_number": "3B42.MW.v7.0",
+    "id": "trmm-3b42-mw-v7-0",
+    "type": [
+        "wcrp:source",
+        "obs4mips"
+    ],
+    "@context": "_context_",
+    "organisation": [
+        "institutions/nasa-gsfc"
+    ],
+    "description": "NASA-TRMM prepared for FROGS"
+}

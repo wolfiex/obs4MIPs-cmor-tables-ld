@@ -1,0 +1,25 @@
+{
+    "region": "north_america",
+    "release_year": "2014",
+    "source_id": "nClimGrid-Monthly-1-0",
+    "source_label": "nClimGrid-Monthly-1-0",
+    "source_name": "nClimGrid-Monthly-1-0",
+    "source_type": "gridded_insitu",
+    "source_variables": [
+        "pr",
+        "tas",
+        "tasmax",
+        "tasmin"
+    ],
+    "source_version_number": "1.0",
+    "id": "nclimgrid-monthly-1-0",
+    "type": [
+        "wcrp:source",
+        "obs4mips"
+    ],
+    "@context": "_context_",
+    "organisation": [
+        "institutions/noaa-ncei"
+    ],
+    "description": "NOAA nClimGrid-Monthly"
+}

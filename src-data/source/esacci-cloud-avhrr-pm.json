@@ -1,0 +1,29 @@
+{
+    "region": [
+        "global"
+    ],
+    "release_year": "2020",
+    "source_label": "ESACCI-CLOUD-AVHRR-PM",
+    "source_name": "ESACCI-CLOUD-AVHRR-PM",
+    "source_type": "satellite_retrieval",
+    "source_variables": [
+        "clCCI",
+        "clivi",
+        "cltCCI",
+        "clwCCI",
+        "clwtCCI",
+        "clwvi",
+        "pctCCI"
+    ],
+    "source_version_number": "3.0",
+    "id": "esacci-cloud-avhrr-pm",
+    "type": [
+        "wcrp:source",
+        "obs4mips"
+    ],
+    "@context": "_context_",
+    "organisation": [
+        "institutions/dwd"
+    ],
+    "description": "Cloud properties derived from AVHRR (aboard NOAA and MetOp PM) measurements. This dataset belongs to the ESA Cloud_cci suite of long-term coherent cloud property datasets."
+}

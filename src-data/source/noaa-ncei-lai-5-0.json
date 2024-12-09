@@ -1,0 +1,24 @@
+{
+    "region": [
+        "global_land"
+    ],
+    "release_year": "2019",
+    "source_id": "NOAA-NCEI-LAI-5-0",
+    "source_label": "NOAA NCEI LAI",
+    "source_name": "NOAA NCEI LAI",
+    "source_type": "satellite_retrieval",
+    "source_variables": [
+        "lai"
+    ],
+    "source_version_number": "5.0",
+    "id": "noaa-ncei-lai-5-0",
+    "type": [
+        "wcrp:source",
+        "obs4mips"
+    ],
+    "@context": "_context_",
+    "organisation": [
+        "institutions/noaa-ncei"
+    ],
+    "description": "AVHRR Leaf Area Index"
+}

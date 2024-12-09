@@ -1,0 +1,23 @@
+{
+    "region": [
+        "global"
+    ],
+    "release_year": "2016",
+    "source_label": "GPCP SG",
+    "source_name": "GPCP SG",
+    "source_type": "satellite_blended",
+    "source_variables": [
+        "pr"
+    ],
+    "source_version_number": "2.3",
+    "id": "gpcp-sg-2-3",
+    "type": [
+        "wcrp:source",
+        "obs4mips"
+    ],
+    "@context": "_context_",
+    "organisation": [
+        "institutions/nasa-gsfc"
+    ],
+    "description": "Global Precipitation Climatology Project Satellite-Gauge"
+}

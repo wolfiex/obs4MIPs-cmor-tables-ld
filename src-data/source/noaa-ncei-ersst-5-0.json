@@ -1,0 +1,24 @@
+{
+    "region": [
+        "global_ocean"
+    ],
+    "release_year": "2017",
+    "source_id": "NOAA-NCEI-ERSST-5-0",
+    "source_label": "NOAA NCEI ERSST",
+    "source_name": "NOAA NCEI ERSST",
+    "source_type": "gridded_insitu",
+    "source_variables": [
+        "tos"
+    ],
+    "source_version_number": "5.0",
+    "id": "noaa-ncei-ersst-5-0",
+    "type": [
+        "wcrp:source",
+        "obs4mips"
+    ],
+    "@context": "_context_",
+    "organisation": [
+        "institutions/noaa-ncei"
+    ],
+    "description": "Extended Reconstructed Sea Surface Temperatures"
+}

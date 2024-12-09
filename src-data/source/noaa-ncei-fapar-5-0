@@ -1,0 +1,24 @@
+{
+    "region": [
+        "global_land"
+    ],
+    "release_year": "2019",
+    "source_id": "NOAA-NCEI-FAPAR-5-0",
+    "source_label": "NOAA NCEI FAPAR",
+    "source_name": "NOAA NCEI FAPAR",
+    "source_type": "satellite_retrieval",
+    "source_variables": [
+        "fapar"
+    ],
+    "source_version_number": "5.0",
+    "id": "noaa-ncei-fapar-5-0",
+    "type": [
+        "wcrp:source",
+        "obs4mips"
+    ],
+    "@context": "_context_",
+    "organisation": [
+        "institutions/noaa-ncei"
+    ],
+    "description": "AVHRR Fraction of Absorbed Photosynthetically Active Radiation"
+}

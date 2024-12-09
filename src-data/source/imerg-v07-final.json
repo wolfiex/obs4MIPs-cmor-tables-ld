@@ -1,0 +1,24 @@
+{
+    "region": [
+        "global"
+    ],
+    "release_year": "2023",
+    "source_id": "IMERG-V07-Final",
+    "source_label": "IMERG-V07-Final",
+    "source_name": "IMERG-V07-Final",
+    "source_type": "satellite_blended",
+    "source_variables": [
+        "pr"
+    ],
+    "source_version_number": "V07",
+    "id": "imerg-v07-final",
+    "type": [
+        "wcrp:source",
+        "obs4mips"
+    ],
+    "@context": "_context_",
+    "organisation": [
+        "institutions/nasa-gsfc"
+    ],
+    "description": "NASA IMERG 30-min, 0.1x0.1 degrees"
+}
